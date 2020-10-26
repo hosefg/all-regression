@@ -15,3 +15,4 @@
 # multiplelinearregression-implementation
 # multiplelinearregression-implementation
 # multiplelinearregression-implementation
+# all-regression
